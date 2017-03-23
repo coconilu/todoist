@@ -1,5 +1,6 @@
 # todoist
 使用shell脚本编写的Todo清单
+
 下载到本地后赋予执行权限给脚本todo.sh
 
 `chmod +x todo.sh`
